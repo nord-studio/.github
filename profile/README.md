@@ -1,4 +1,4 @@
-![We are Nord Studio.](images/banner.png)
+[We are Nord!](https://raw.githubusercontent.com/nord-studio/.github/main/profile/images/banner.png)
 
 ## Building the future. One project at a time.
 We make software, games, websites and everything in between.  
