@@ -1,4 +1,4 @@
-[We are Nord!](banner.png)
+[We are Nord!](/profile/banner.png)
 
 ## Building the future. One project at a time.
 We make software, games, websites and everything in between.  
