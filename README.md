@@ -1,1 +1,1 @@
-/Users/tygrdev/Desktop/github/.github/profile/README.md
+/profile/README.md
