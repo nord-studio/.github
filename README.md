@@ -1,2 +1,1 @@
-# .github
-We are Nord.
+/Users/tygrdev/Desktop/github/.github/profile/README.md
